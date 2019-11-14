@@ -1,0 +1,54 @@
+.nav
+{
+	border-bottom: 2px solid grey;
+	background-color: black;
+	color:white;
+	padding: 15px;
+}
+.left
+{ 
+	background-color:rgb(219, 230, 218);
+	width: 29%;
+	float: left;
+	height: 840px;
+	border-bottom: 2px solid grey;
+}
+.right
+{
+	background-color:rgb(219, 230, 218);
+	border-left: 2px solid grey;
+	border-right: 2px solid grey;
+	display: inline-block;
+	border-bottom: 2px solid grey;
+	position: absolute;
+	width: 70%;
+	height: 840px;
+	
+}
+.abc
+{ 
+   
+	margin-left: 10px;
+	text-align: center;
+	margin-top: 150px;
+	align-items: center;
+}
+.efg
+{
+	 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	margin-left: 20px;
+}
+img
+{
+	height: 45%;
+	width: 45%;
+	
+}
+table,tr,th,td
+{
+	border: 1px solid black;
+}
+.foot
+{
+	height: 50px;
+}
