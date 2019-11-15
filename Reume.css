@@ -38,12 +38,13 @@
 	 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 	margin-left: 20px;
 }
-img
+.im
 {
 	height: 45%;
 	width: 45%;
 	
 }
+
 table,tr,th,td
 {
 	border: 1px solid black;
@@ -51,4 +52,13 @@ table,tr,th,td
 .foot
 {
 	height: 50px;
+}
+h2
+{
+	 text-shadow: 1px 1px green;
+}
+h1
+{
+	 text-shadow: 1px 1px #ff0000;
+
 }
